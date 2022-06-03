@@ -2,8 +2,8 @@ import Config
 
 # Configure your database
 config :wabanex, Wabanex.Repo,
-  username: "postgres",
-  password: "postgres",
+  username: "rafael",
+  password: "1234",
   database: "wabanex",
   hostname: "localhost",
   show_sensitive_data_on_connection_error: true,
